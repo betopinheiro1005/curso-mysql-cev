@@ -1,2 +1,2 @@
-# curso-mysql-gustavo-guanabara
-Scripts e resumo do curso de MySQL - Gustavo Guanabara
+# curso-mysql-cev
+Scripts e resumo do curso de MySQL - Curso em Vídeo - Gustavo Guanabara
